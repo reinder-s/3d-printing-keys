@@ -12,6 +12,6 @@ Abloy disklock, disklock pro, and novel.
 
 Abloy easy.
 
-xylok (soon™)
+xylok.
 
 Kromer Protector (soon™ requires a lot of work to use)
