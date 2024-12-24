@@ -16,4 +16,4 @@ xylok.
 
 Ava.
 
-Kromer Protector (soon™ requires a lot of work to use)
+Kromer Protector blank (very much WIP).
