@@ -1,6 +1,7 @@
 $fn=360;
 cut_offset = 4.57;
 cut_spacing = 1.5;
+//use "protec2_blank_no_bearing.stl" if you dont want to print the bearing
 
 module protec2(list){
 	difference() {
